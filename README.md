@@ -1,56 +1,56 @@
 <h1 align="center">Hi 👋, I'm Sanchayan Garai</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Python+Developer;Exploring+AI+and+Analytics" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Machine+Learning+Developer;Python+Programmer;Exploring+AI+%26+Analytics;Building+Real+World+ML+Projects" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sanchayan%20Garai&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&fontSize=45"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 Student passionate about **Data Science, Artificial Intelligence, and Machine Learning**
+🎓 Student passionate about **Data Science, Artificial Intelligence and Machine Learning**
 
-📊 Interested in **real-world data analysis and predictive modeling**
+📊 Interested in **data-driven solutions and predictive modeling**
 
-🐍 Working mostly with **Python for Data Science & ML**
+🐍 Primarily working with **Python for ML, Data Analysis and AI**
 
-🚀 Currently exploring **Advanced Machine Learning, AI & Cloud Tools**
+🚀 Currently learning **Advanced Machine Learning, Deep Learning & Cloud Computing**
 
-💡 Always learning and building new projects
+💡 Always curious about solving **real-world problems using data**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/sanchayan-garai-083053386/">
-<img src="https://img.shields.io/badge/LinkedIn-Sanchayan%20Garai-blue?style=for-the-badge&logo=linkedin"/>
-</a>
 
 <a href="mailto:ironm7964@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sanchayan-garai-083053386/">
+<img src="https://img.shields.io/badge/LinkedIn-Sanchayan%20Garai-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode,tensorflow,pytorch,sklearn"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode,tensorflow,pytorch,sklearn,anaconda"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+# 🏆 GitHub Achievements
 
 <p align="center">
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -72,7 +72,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -82,7 +82,7 @@
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -92,22 +92,20 @@
 
 ---
 
-## 🚀 Projects
+# 🚀 Featured Projects
 
 🔹 **Machine Learning Projects**
-Working on predictive models and AI algorithms.
+Building predictive ML models and experimenting with algorithms.
 
 🔹 **Data Analysis Projects**
-Analyzing datasets using Python libraries like Pandas and NumPy.
+Analyzing real-world datasets using Python and visualization tools.
 
 🔹 **AI Experiments**
-Exploring innovative solutions using AI and ML.
-
-More exciting projects coming soon 🚀
+Exploring AI applications and intelligent systems.
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -117,7 +115,7 @@ More exciting projects coming soon 🚀
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
 <p align="center">
 
@@ -128,3 +126,4 @@ More exciting projects coming soon 🚀
 ---
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
+
