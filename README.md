@@ -1,33 +1,44 @@
+<!-- ============================================================
+     SANCHAYAN GARAI — GitHub Profile README
+     Strategy: Only use 100% GitHub-proxy-safe image sources.
+     Stats → github-readme-stats with anuraghazra (primary CDN)
+     Trophies → REMOVED (broken for most accounts), replaced with
+                skill progress bars via pure shields.io
+     ============================================================ -->
+
 <div align="center">
 
-<!-- HEADER BANNER - capsule-render is reliable -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,50:0f172a,100:1e3a5f&height=220&section=header&text=Sanchayan%20Garai&fontSize=55&fontColor=38bdf8&animation=fadeIn&fontAlignY=40&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20AI%20Builder&descSize=20&descAlignY=62&descColor=94a3b8"/>
+<!-- ░░ HEADER ░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f172a,70:1a2744,100:0f3460&height=260&section=header&text=Sanchayan%20Garai&fontSize=58&fontColor=58a6ff&animation=fadeIn&fontAlignY=42&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Builder&descSize=20&descAlignY=62&descColor=8b949e"/>
 
-<!-- TYPING SVG - use demolab (more reliable than herokuapp) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Turning+raw+data+into+real+decisions+%F0%9F%A7%A0;Neural+nets+%7C+Gradient+descent+%7C+Backprop+%E2%9C%A8;Python+%7C+TensorFlow+%7C+PyTorch+%7C+Scikit-learn;From+curiosity+%E2%86%92+code+%E2%86%92+impact+%F0%9F%94%A5" alt="Typing SVG" />
+<!-- ░░ TYPING ░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=⚡+Turning+raw+data+into+real+decisions;🧠+Neural+nets+%7C+Gradient+Descent+%7C+Backprop;🚀+Python+·+TensorFlow+·+PyTorch+·+Scikit-learn;📊+From+curiosity+→+code+→+impact;🔥+Building+ML+pipelines+from+scratch" alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
-<!-- SOCIAL BADGES - shields.io is always reliable -->
-<a href="mailto:ironm7964@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sanchayan-garai-083053386/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Unwilling-mcu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Unwilling-mcu&style=for-the-badge&color=38bdf8&labelColor=0f172a&label=PROFILE+VIEWS"/>
+<!-- ░░ TOP BADGES ░░ -->
+[![Gmail](https://img.shields.io/badge/✉_ironm7964%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:ironm7964@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanchayan_Garai-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://www.linkedin.com/in/sanchayan-garai-083053386/)
+[![GitHub](https://img.shields.io/badge/GitHub-Unwilling--mcu-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Unwilling-mcu)
+[![Views](https://komarev.com/ghpvc/?username=Unwilling-mcu&style=for-the-badge&color=0f3460&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/Unwilling-mcu)
 
 </div>
 
+<br/>
+
 ---
 
-## `~/sanchayan $ cat about.py`
+## `$ whoami`
 
 ```python
 #!/usr/bin/env python3
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#  SANCHAYAN GARAI  |  ML Engineer & Data Science Dev
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#   ███████╗ █████╗ ███╗   ██╗ ██████╗██╗  ██╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗
+#   SANCHAYAN GARAI  ·  ML Engineer  ·  Data Scientist  ·  AI Builder
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 from dataclasses import dataclass, field
-from typing import List
+from typing import List, Dict
 
 @dataclass
 class SanchayanGarai:
@@ -36,24 +47,30 @@ class SanchayanGarai:
     location    : str  = "India 🇮🇳"
     passion     : str  = "Transforming messy data into actionable intelligence"
 
-    currently   : List[str] = field(default_factory=lambda: [
-        "📚 Mastering Deep Learning (CNNs, RNNs, Transformers)",
-        "☁️  Exploring Cloud ML workflows on AWS & GCP",
-        "🔬 Building end-to-end real-world ML pipelines",
-        "📊 Experimenting with time-series & NLP projects",
+    focus       : List[str] = field(default_factory=lambda: [
+        "📚 Deep Learning architectures — CNNs, RNNs, Transformers",
+        "☁️  Cloud ML workflows — AWS & GCP",
+        "🔬 End-to-end production ML pipelines",
+        "📊 Time-Series forecasting & NLP systems",
+        "🤖 Intelligent decision systems & AI analytics",
     ])
 
-    stack       : List[str] = field(default_factory=lambda: [
-        "Python 🐍", "TensorFlow", "PyTorch", "Scikit-learn",
-        "Pandas", "NumPy", "Matplotlib", "Seaborn", "Jupyter",
-    ])
+    expertise   : Dict[str, int] = field(default_factory=lambda: {
+        "Python"         : 90,
+        "Machine Learning": 82,
+        "Deep Learning"  : 75,
+        "Data Analysis"  : 88,
+        "TensorFlow"     : 72,
+        "PyTorch"        : 70,
+    })
 
-    fun_fact    : str = "I debug with print() and I am not ashamed 😄"
+    fun_fact    : str = "I debug with print() and I'm not ashamed 😄"
     philosophy  : str = "Data tells a story — I help it speak loudly."
 
 me = SanchayanGarai()
-print(f"⚡ {me.philosophy}")
-# → "Data tells a story — I help it speak loudly."
+print(f"⚡  {me.philosophy}")
+# ──────────────────────────────────────────────────────
+# OUTPUT → "Data tells a story — I help it speak loudly."
 ```
 
 ---
@@ -62,15 +79,13 @@ print(f"⚡ {me.philosophy}")
 
 <div align="center">
 
-<!-- Stats - use vercel deployment, explicit params prevent blank cards -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Unwilling-mcu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unwilling-mcu&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Unwilling-mcu&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&border_radius=8&title_color=58a6ff&icon_color=58a6ff"/>
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unwilling-mcu&layout=compact&theme=github_dark_dimmed&hide_border=true&border_radius=8&title_color=58a6ff&langs_count=8"/>
 
 <br/><br/>
 
-<!-- Streak - demolab is stable -->
-<img src="https://streak-stats.demolab.com/?user=Unwilling-mcu&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com/?user=Unwilling-mcu&theme=github-dark-blue&hide_border=true&border_radius=8&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff"/>
 
 </div>
 
@@ -80,39 +95,44 @@ print(f"⚡ {me.philosophy}")
 
 <div align="center">
 
-**Core Languages**
+### ◈ Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**ML / AI Frameworks**
+### ◈ ML / AI
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Data & Visualization**
+### ◈ Data & Analytics
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
 
-**Tools & Environment**
+### ◈ Tools & Environment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Cloud (Learning)**
+### ◈ Cloud Platforms (Learning)
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
 
@@ -122,23 +142,12 @@ print(f"⚡ {me.philosophy}")
 
 <div align="center">
 
-| Project | Description | Stack | Link |
-|:---:|:---|:---:|:---:|
-| **Quantum Wildlife** | Wildlife pattern analysis using ML & data science | `Python` `Jupyter` | [View →](https://github.com/Unwilling-mcu/Quantum-Wildlife) |
-| **IntelliScope Dashboard** | AI-driven Business Insight & Decision Optimization in Power BI | `Power BI` `Analytics` | [View →](https://github.com/Unwilling-mcu/IntelliScope-AI-Driven-Business-Insight-Decision-Optimization-Dashboard) |
-| **Social Media Portfolio** | Personal portfolio site showcasing projects & skills | `HTML` `CSS` | [View →](https://github.com/Unwilling-mcu/Social-media-portfolio) |
-| **ML Experiments** | Classification, regression & clustering on real datasets | `Scikit-learn` `Pandas` | [View →](https://github.com/Unwilling-mcu?tab=repositories) |
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<!-- trophy - use gitdimmed theme, most stable on dark backgrounds -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Unwilling-mcu&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
+| # | Project | What It Does | Stack | Link |
+|:--:|:--|:--|:--:|:--:|
+| 🧬 | **Quantum Wildlife** | ML-powered wildlife pattern analysis & classification | `Python` `Jupyter` `Sklearn` | [→ View](https://github.com/Unwilling-mcu/Quantum-Wildlife) |
+| 📊 | **IntelliScope Dashboard** | AI-driven Business Insight & Decision Optimization | `Power BI` `DAX` `Analytics` | [→ View](https://github.com/Unwilling-mcu/IntelliScope-AI-Driven-Business-Insight-Decision-Optimization-Dashboard) |
+| 🌐 | **Social Media Portfolio** | Full personal portfolio site with project showcase | `HTML` `CSS` `JS` | [→ View](https://github.com/Unwilling-mcu/Social-media-portfolio) |
+| 🤖 | **ML Experiments** | Classification, regression & clustering pipelines | `Scikit-learn` `Pandas` `NumPy` | [→ View](https://github.com/Unwilling-mcu?tab=repositories) |
 
 </div>
 
@@ -148,7 +157,7 @@ print(f"⚡ {me.philosophy}")
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Unwilling-mcu&bg_color=1a1b27&color=38bdf8&line=1d4ed8&point=38bdf8&area=true&area_color=1e3a5f&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Unwilling-mcu&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=0f3460&hide_border=true&custom_title=Sanchayan%20Garai%20—%20Contribution%20Graph"/>
 
 </div>
 
@@ -157,23 +166,25 @@ print(f"⚡ {me.philosophy}")
 ## 🐍 Contribution Snake
 
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="github-snake" width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
-
 </div>
 
 ---
 
 <div align="center">
 
+### 📬 Open to Collaborations, Research & Internships
+
 *"The goal is to turn data into information, and information into insight."*
 
-⭐ Star a repo if you find it useful — it genuinely helps!
+**⭐ If a repo helped you — a star means the world!**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:0f172a,100:020817&height=120&section=footer"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:0f172a,100:0d1117&height=130&section=footer"/>
 
 </div>
