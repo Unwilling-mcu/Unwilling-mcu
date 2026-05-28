@@ -1,12 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,50:0f172a,100:1e3a5f&height=200&section=header&text=Sanchayan%20Garai&fontSize=52&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20AI%20Builder&descSize=18&descAlignY=60&descColor=94a3b8"/>
+<!-- HEADER BANNER - capsule-render is reliable -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,50:0f172a,100:1e3a5f&height=220&section=header&text=Sanchayan%20Garai&fontSize=55&fontColor=38bdf8&animation=fadeIn&fontAlignY=40&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20AI%20Builder&descSize=20&descAlignY=62&descColor=94a3b8"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Turning+raw+data+into+real+decisions+%F0%9F%A7%A0;Neural+nets+%7C+Gradient+descent+%7C+Backprop+%E2%9C%A8;Building+ML+pipelines+from+scratch+%F0%9F%9A%80;Python+%7C+TensorFlow+%7C+PyTorch+%7C+Scikit-learn;From+curiosity+%E2%86%92+code+%E2%86%92+impact+%F0%9F%94%A5)](https://git.io/typing-svg)
+<!-- TYPING SVG - use demolab (more reliable than herokuapp) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Turning+raw+data+into+real+decisions+%F0%9F%A7%A0;Neural+nets+%7C+Gradient+descent+%7C+Backprop+%E2%9C%A8;Python+%7C+TensorFlow+%7C+PyTorch+%7C+Scikit-learn;From+curiosity+%E2%86%92+code+%E2%86%92+impact+%F0%9F%94%A5" alt="Typing SVG" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br/>
+
+<!-- SOCIAL BADGES - shields.io is always reliable -->
+<a href="mailto:ironm7964@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sanchayan-garai-083053386/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Unwilling-mcu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Unwilling-mcu&style=for-the-badge&color=38bdf8&labelColor=0f172a&label=PROFILE+VIEWS"/>
 
 </div>
+
+---
 
 ## `~/sanchayan $ cat about.py`
 
@@ -46,28 +56,25 @@ print(f"⚡ {me.philosophy}")
 # → "Data tells a story — I help it speak loudly."
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
-
-<div align="center">
+---
 
 ## 📊 GitHub Intelligence
 
-<a href="https://github.com/Unwilling-mcu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Unwilling-mcu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020817&title_color=38bdf8&icon_color=f472b6&text_color=94a3b8&ring_color=38bdf8&border_radius=12"/>
-</a>
-<a href="https://github.com/Unwilling-mcu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unwilling-mcu&layout=compact&theme=tokyonight&hide_border=true&bg_color=020817&title_color=38bdf8&text_color=94a3b8&border_radius=12"/>
-</a>
+<div align="center">
 
-<br/>
+<!-- Stats - use vercel deployment, explicit params prevent blank cards -->
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Unwilling-mcu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unwilling-mcu&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"/>
 
-<a href="https://github.com/Unwilling-mcu">
-  <img src="https://streak-stats.demolab.com/?user=Unwilling-mcu&theme=tokyonight&hide_border=true&background=020817&ring=38bdf8&fire=f472b6&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&border_radius=12"/>
-</a>
+<br/><br/>
+
+<!-- Streak - demolab is stable -->
+<img src="https://streak-stats.demolab.com/?user=Unwilling-mcu&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -75,76 +82,77 @@ print(f"⚡ {me.philosophy}")
 
 **Core Languages**
 
-![Python](https://img.shields.io/badge/Python-020817?style=for-the-badge&logo=python&logoColor=38bdf8&labelColor=0f172a)
-![C++](https://img.shields.io/badge/C++-020817?style=for-the-badge&logo=cplusplus&logoColor=f472b6&labelColor=0f172a)
-![Java](https://img.shields.io/badge/Java-020817?style=for-the-badge&logo=openjdk&logoColor=fb923c&labelColor=0f172a)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **ML / AI Frameworks**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-020817?style=for-the-badge&logo=tensorflow&logoColor=ff6f00&labelColor=0f172a)
-![PyTorch](https://img.shields.io/badge/PyTorch-020817?style=for-the-badge&logo=pytorch&logoColor=ee4c2c&labelColor=0f172a)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-020817?style=for-the-badge&logo=scikit-learn&logoColor=f7931e&labelColor=0f172a)
-![Keras](https://img.shields.io/badge/Keras-020817?style=for-the-badge&logo=keras&logoColor=d00000&labelColor=0f172a)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 **Data & Visualization**
 
-![Pandas](https://img.shields.io/badge/Pandas-020817?style=for-the-badge&logo=pandas&logoColor=38bdf8&labelColor=0f172a)
-![NumPy](https://img.shields.io/badge/NumPy-020817?style=for-the-badge&logo=numpy&logoColor=4dabf7&labelColor=0f172a)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-020817?style=for-the-badge&logo=python&logoColor=11557c&labelColor=0f172a)
-![Seaborn](https://img.shields.io/badge/Seaborn-020817?style=for-the-badge&logo=python&logoColor=4c8cbf&labelColor=0f172a)
-![Plotly](https://img.shields.io/badge/Plotly-020817?style=for-the-badge&logo=plotly&logoColor=3f4f75&labelColor=0f172a)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Tools & Environment**
 
-![Git](https://img.shields.io/badge/Git-020817?style=for-the-badge&logo=git&logoColor=f05032&labelColor=0f172a)
-![GitHub](https://img.shields.io/badge/GitHub-020817?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)
-![VS Code](https://img.shields.io/badge/VS%20Code-020817?style=for-the-badge&logo=visual-studio-code&logoColor=007acc&labelColor=0f172a)
-![Jupyter](https://img.shields.io/badge/Jupyter-020817?style=for-the-badge&logo=jupyter&logoColor=f37626&labelColor=0f172a)
-![Anaconda](https://img.shields.io/badge/Anaconda-020817?style=for-the-badge&logo=anaconda&logoColor=44a833&labelColor=0f172a)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 **Cloud (Learning)**
 
-![AWS](https://img.shields.io/badge/AWS-020817?style=for-the-badge&logo=amazon-aws&logoColor=ff9900&labelColor=0f172a)
-![GCP](https://img.shields.io/badge/Google%20Cloud-020817?style=for-the-badge&logo=google-cloud&logoColor=4285f4&labelColor=0f172a)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
+---
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| 🔬 Project | 📝 Description | 🛠 Stack | 🔗 |
+| Project | Description | Stack | Link |
 |:---:|:---|:---:|:---:|
-| **Quantum Wildlife** | Wildlife pattern analysis using ML & data science | `Python` `Jupyter` | [![View](https://img.shields.io/badge/Repo-0f172a?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/Unwilling-mcu/Quantum-Wildlife) |
-| **IntelliScope Dashboard** | AI-driven Business Insight & Decision Optimization in Power BI | `Power BI` `Analytics` | [![View](https://img.shields.io/badge/Repo-0f172a?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/Unwilling-mcu/IntelliScope-AI-Driven-Business-Insight-Decision-Optimization-Dashboard) |
-| **Social Media Portfolio** | Personal portfolio site showcasing projects & skills | `HTML` `CSS` | [![View](https://img.shields.io/badge/Repo-0f172a?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/Unwilling-mcu/Social-media-portfolio) |
-| **ML Experiments** | Classification, regression & clustering on real datasets | `Scikit-learn` `Pandas` | [![View](https://img.shields.io/badge/Repos-0f172a?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/Unwilling-mcu?tab=repositories) |
+| **Quantum Wildlife** | Wildlife pattern analysis using ML & data science | `Python` `Jupyter` | [View →](https://github.com/Unwilling-mcu/Quantum-Wildlife) |
+| **IntelliScope Dashboard** | AI-driven Business Insight & Decision Optimization in Power BI | `Power BI` `Analytics` | [View →](https://github.com/Unwilling-mcu/IntelliScope-AI-Driven-Business-Insight-Decision-Optimization-Dashboard) |
+| **Social Media Portfolio** | Personal portfolio site showcasing projects & skills | `HTML` `CSS` | [View →](https://github.com/Unwilling-mcu/Social-media-portfolio) |
+| **ML Experiments** | Classification, regression & clustering on real datasets | `Scikit-learn` `Pandas` | [View →](https://github.com/Unwilling-mcu?tab=repositories) |
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Unwilling-mcu&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+<!-- trophy - use gitdimmed theme, most stable on dark backgrounds -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Unwilling-mcu&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
+---
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Unwilling-mcu&bg_color=020817&color=38bdf8&line=1d4ed8&point=38bdf8&area=true&area_color=1e3a5f&hide_border=true&border_radius=12&custom_title=Sanchayan's%20Contribution%20Graph)](https://github.com/Unwilling-mcu)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Unwilling-mcu&bg_color=1a1b27&color=38bdf8&line=1d4ed8&point=38bdf8&area=true&area_color=1e3a5f&hide_border=true"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
+---
 
 ## 🐍 Contribution Snake
 
@@ -153,38 +161,18 @@ print(f"⚡ {me.philosophy}")
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
-
-## 🌐 Let's Connect
+---
 
 <div align="center">
 
-<a href="mailto:ironm7964@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Write%20To%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/sanchayan-garai-083053386/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"/>
-</a>
-&nbsp;
-<a href="https://github.com/Unwilling-mcu">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"/>
-</a>
+*"The goal is to turn data into information, and information into insight."*
 
-<br/><br/>
-
-> *"The goal is to turn data into information, and information into insight."*
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Unwilling-mcu&style=for-the-badge&color=38bdf8&labelColor=0f172a&label=PROFILE+VIEWS"/>
-
-<br/><br/>
+⭐ Star a repo if you find it useful — it genuinely helps!
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:0f172a,100:020817&height=120&section=footer"/>
 
